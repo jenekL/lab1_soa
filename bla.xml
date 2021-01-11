@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog>
+    <list1>
+        <product>
+            <name>CProduct2</name>
+            <extension>L</extension>
+            <price>120.0</price>
+            <sellNumber>2</sellNumber>
+        </product>
+        <product>
+            <name>DProduct1</name>
+            <extension>kg</extension>
+            <price>100.0</price>
+            <sellNumber>1</sellNumber>
+        </product>
+    </list1>
+    <list2>
+        <product>
+            <name>AProduct4</name>
+            <extension>mL</extension>
+            <price>160.0</price>
+            <sellNumber>4</sellNumber>
+        </product>
+        <product>
+            <name>BProduct3</name>
+            <extension>g</extension>
+            <price>140.0</price>
+            <sellNumber>3</sellNumber>
+        </product>
+        <product>
+            <name>CProduct2</name>
+            <extension>L</extension>
+            <price>120.0</price>
+            <sellNumber>2</sellNumber>
+        </product>
+        <product>
+            <name>DProduct1</name>
+            <extension>kg</extension>
+            <price>100.0</price>
+            <sellNumber>1</sellNumber>
+        </product>
+    </list2>
+</catalog>

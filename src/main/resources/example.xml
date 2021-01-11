@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<catalog>
+    <product id="1">
+        <name>DProduct1</name>
+        <extension>kg</extension>
+        <price>100</price>
+        <sellNumber>1</sellNumber>
+    </product>
+    <product id="2">
+        <name>CProduct2</name>
+        <extension>L</extension>
+        <price>120</price>
+        <sellNumber>2</sellNumber>
+    </product>
+    <product id="3">
+        <name>BProduct3</name>
+        <extension>g</extension>
+        <price>140</price>
+        <sellNumber>3</sellNumber>
+    </product>
+    <product id="4">
+        <name>AProduct4</name>
+        <extension>mL</extension>
+        <price>160</price>
+        <sellNumber>4</sellNumber>
+    </product>
+</catalog>
